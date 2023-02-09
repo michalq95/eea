@@ -2,7 +2,7 @@
   <router-link to="/">Return</router-link>
 
   <h1>{{ this.user.name }}</h1>
-  <button @click="this.i++">Filter by status</button>
+  <!-- <button @click="this.i++">Filter by status</button> -->
   <div class="table-wrapper">
     <table class="table table-hover">
       <thead>

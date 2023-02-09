@@ -71,7 +71,7 @@ a.router-link-exact-active {
 .table-wrapper {
   margin: 10px 50px 50px;
   overflow-y: auto;
-  max-height: 70vh;
+  max-height: 65vh;
 }
 
 .table {
